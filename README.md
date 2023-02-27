@@ -59,7 +59,7 @@ Each selection, once completed, will bring you back to the main menu. To finish 
 ## Demonstration
 Would you like to see the Employee Tracker in action?
 
-Watch this [demo](https://www.youtube.com/watch.
+Watch this [demo](https://www.youtube.com/watch?v=R5KAcVR1II0)
 
 ## Questions
 Have questions about this project?  
