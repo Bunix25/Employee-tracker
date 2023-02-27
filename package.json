@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/Bunix25/Employee-tracker"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/Bunix25/Employee-tracker/issues"
   },
-  "homepage": "https://github.com/readme"
+  "homepage": "https://github.com/Bunix25/Employee-tracker"
 }
